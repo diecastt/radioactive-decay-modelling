@@ -125,11 +125,11 @@ def plot_hist(data, title):
     
     return mu
     
-e1 = "OneDrive - McGill University\WINTER 2022\PHYS 258\LAB6_258\E1_lab6.csv"
-e2 = "OneDrive - McGill University\WINTER 2022\PHYS 258\LAB6_258\E2_lab6.csv"
-e3 = "OneDrive - McGill University\WINTER 2022\PHYS 258\LAB6_258\E3_lab6.csv"
-e4 = "OneDrive - McGill University\WINTER 2022\PHYS 258\LAB6_258\E4_lab6.csv"
-tech = "OneDrive - McGill University/WINTER 2022/PHYS 258/LAB6_258/tech.csv"
+e1 = "./resources/E1_lab6.csv"
+e2 = "./resources/E2_lab6.csv"
+e3 = "./resources/E3_lab6.csv"
+e4 = "./resources/E4_lab6.csv"
+tech = "./resources/tech.csv"
 
 
 #==================================E1 analysis========================================  
