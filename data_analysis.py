@@ -125,10 +125,10 @@ def plot_hist(data, title):
     
     return mu
     
-e1 = "./resources/E1_lab6.csv"
-e2 = "./resources/E2_lab6.csv"
-e3 = "./resources/E3_lab6.csv"
-e4 = "./resources/E4_lab6.csv"
+e1 = "./resources/experiment1.csv"
+e2 = "./resources/experiment2.csv"
+e3 = "./resources/experiment3.csv"
+e4 = "./resources/experiment4.csv"
 tech = "./resources/tech.csv"
 
 
